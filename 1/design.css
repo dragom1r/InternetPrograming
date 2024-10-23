@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    color: blueviolet;
+}
+aside {
+    border: 5px dotted #2f2f2f;
+    background-color: aquamarine;
+}
+/* h2, h3, h4, p {
+    text-align: right;
+    font-family: sans-serif;
+    color: rgb(19, 185, 60);
+} */
